@@ -1,5 +1,3 @@
-# Enhanced README content with detailed sections and screenshot placeholders
-enhanced_readme_content = """
 # 🚀 Crypto Dashboard
 
 A modern, responsive **Crypto Dashboard** built with **Next.js** and **TypeScript**. It features dynamic price charts, crypto statistics, and a sleek dark mode. Currently using mock data, it's ready for real API integration to provide real-time cryptocurrency insights.
