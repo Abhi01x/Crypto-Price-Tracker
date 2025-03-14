@@ -18,13 +18,6 @@ A modern, responsive **Crypto Dashboard** built with **Next.js** and **TypeScrip
 ### Dashboard Overview
 ![Dashboard Screenshot](./public/dashboard-overview.png)
 
-### Dark Mode View
-![Dark Mode Screenshot](./public/dark-mode.png)
-
-> Replace the above images with your actual project screenshots.
-
----
-
 ## 🔧 Installation
 
 1. **Clone the Repository**
