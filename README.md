@@ -30,3 +30,18 @@ Next.js Docs
 Tailwind CSS Docs
 Crypto APIs (for future integration)
 
+🛠️ Tech Stack
+Framework: Next.js
+Language: TypeScript
+Styling: Tailwind CSS
+Deployment: Vercel (Recommended)
+
+🔄 Customization
+Modify lib/mockData.ts to update cryptocurrency details.
+For real-time data, integrate APIs like CoinGecko.
+Customize UI components in the components/ directory.
+
+🚩 Known Issues
+Basic mobile responsiveness; optimizations are planned.
+Dark mode toggle could be refined for smoother transitions.
+
