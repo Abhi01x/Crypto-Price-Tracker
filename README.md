@@ -9,7 +9,7 @@ A modern, responsive **Crypto Dashboard** built with **Next.js** and **TypeScrip
 - 🪙 **Crypto Statistics** – Display price, market cap, and volume for various cryptocurrencies.  
 - 🌙 **Dark Mode Support** – Seamless toggle between light and dark themes.  
 - ⚡ **Mock Data Integration** – Easily adaptable for real API data.  
-- 🛠️ **Customizable** – Modify mock data or integrate APIs as needed.  
+- 🛠️ **Customizable** – Modify mock data or integrate APIs as much needed.  
 
 ---
 
